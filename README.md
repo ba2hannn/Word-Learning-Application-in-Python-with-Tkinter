@@ -35,4 +35,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any questions or suggestions, please contact [batuhan](mailto:batuhan).
+For any questions or suggestions, please contact [batuhannakcan@gmail.com](mailto:batuhannakcan@gmail.com).
